@@ -1,0 +1,50 @@
+[
+  {
+    "id": "r1",
+    "name": "Test",
+    "address": "Teststreet 5, Testcity",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "Teststreet 10, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "id": "r3",
+    "name": "Restaurant 3",
+    "address": "Awsomestreet 5, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing!"
+  },
+  {
+    "name": "Munich Fines Restaurant",
+    "address": "Greatstreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's in Munich, that's where I want to live!",
+    "id": "d486790a-b8b6-49c0-9745-4f142c0ab3f0"
+  },
+  {
+    "name": "Daawat",
+    "address": "Bokaro Thermal",
+    "cuisine": "Korean",
+    "website": "https://daawat.com",
+    "description": "Whatever!",
+    "id": "6ca54024-8326-49b7-aa23-8e79bfa0d5ec"
+  },
+  {
+    "name": "Hot N Grill",
+    "address": "GM Colony, BTPS",
+    "cuisine": "Indian",
+    "website": "https://hotngrill.com",
+    "description": "Great!",
+    "id": "35b42a7d-31ea-4b6f-81b2-717ff83aff61"
+  }
+]
